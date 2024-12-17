@@ -306,6 +306,9 @@ dtbo-$(CONFIG_ARCH_BCM2835) += \
 	uart4.dtbo \
 	uart4-pi5.dtbo \
 	uart5.dtbo \
+	uconsole-display.dtbo \
+	uconsole-misc.dtbo \
+	uconsole-power.dtbo \
 	udrc.dtbo \
 	ugreen-dabboard.dtbo \
 	upstream.dtbo \
